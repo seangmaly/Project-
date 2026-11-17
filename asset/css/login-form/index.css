@@ -1,0 +1,23 @@
+.form-login{
+    width: 400px;
+    height: 500px;
+    border: 1px solid gray;
+    background-color: rgba(243, 255, 245, 0.584);
+    margin:50px auto;
+    padding: 50px;
+    border-radius: 25px;
+}
+.form-title{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    
+}
+body{
+    background-image:url("https://i.pinimg.com/1200x/78/9b/0a/789b0ac9fac08dc435429de872301b79.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sub-title{
+    margin: auto;
+}
